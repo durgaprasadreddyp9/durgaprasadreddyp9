@@ -1,5 +1,8 @@
 <h1>Hi, I'm Durga Prasad Reddy 👋  </h1>
 <p>Data Analyst | Data Engineer              </p>
+<p> Experienced as a Data and Business Intelligence Professional with an analytical mindset, strong communication
+skills and proficiency in Python, SQL, Data warehousing, ETL design & implementation, schema design, building scalable and robust
+data pipelines to enable data-driven decisions for the business.             </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="42" height="42" /></a>
