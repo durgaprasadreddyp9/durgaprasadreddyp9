@@ -1,6 +1,6 @@
 <h1>Hi, I'm Durga Prasad Reddy 👋  </h1>
 <p>Data Analyst | Data Engineer              </p>
-<p> Experienced as a Data and Business Intelligence Professional with an analytical mindset, strong communication
+<p> Experienced as a Data Engineer Professional with an analytical mindset, strong communication
 skills and proficiency in Python, SQL, Data warehousing, ETL design & implementation, schema design, building scalable and robust
 data pipelines to enable data-driven decisions for the business.             </p>
 <h2>🚀 Languages and Tools I Use</h2>
