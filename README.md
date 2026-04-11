@@ -7,10 +7,6 @@ Data Engineer with 4+ years of experience building scalable data platforms, mode
 Specialized in <b>Snowflake, Databricks, dbt, and AWS</b>, with hands-on experience in real-time data processing, data quality frameworks, and AI-driven data workflows.
 </p>
 
-<p>
-Currently working as a <b>Data Engineering Intern at Visa</b> and previously delivered enterprise-scale data solutions for clients like PACCAR Parts.
-</p>
-
 ---
 
 <h2>🔥 What I Do</h2>
