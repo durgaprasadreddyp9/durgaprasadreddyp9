@@ -1,10 +1,14 @@
 <h1>Hi, I'm Durga Prasad Reddy 👋</h1>
 
-<h3>🚀 Data Engineer | Snowflake | Databricks | dbt | AI + Data Pipelines</h3>
+<h3>🚀 Data Engineer | AI Engineer | Snowflake | Databricks | dbt | Agents</h3>
 
 <p>
 Data Engineer with 4+ years of experience building scalable data platforms, modern ELT pipelines, and analytics solutions.
-Specialized in <b>Snowflake, Databricks, dbt, and AWS</b>, with hands-on experience in real-time data processing, data quality frameworks, and AI-driven data workflows.
+Specialized in <b>Snowflake, Databricks, dbt, AWS, and AI-powered data workflows</b>, with hands-on experience in real-time data processing, data quality frameworks, agentic systems, and modern analytics engineering. This version reflects the experience shown in your resume, including dbt, Snowflake, AWS, data quality, and Cortex CLI work. :contentReference[oaicite:0]{index=0}
+</p>
+
+<p>
+I enjoy building robust data systems and exploring how <b>LLMs, agents, and RAG applications</b> can improve developer productivity, debugging, and analytics workflows.
 </p>
 
 ---
@@ -13,11 +17,11 @@ Specialized in <b>Snowflake, Databricks, dbt, and AWS</b>, with hands-on experie
 
 <ul>
 <li>⚡ Build scalable data pipelines using <b>Snowflake, Databricks, PySpark</b></li>
-<li>📊 Design data models using <b>dbt (SCD2, incremental, medallion architecture)</b></li>
-<li>🔄 Implement CDC pipelines & real-time streaming using <b>Kafka & Fivetran</b></li>
-<li>🛡️ Enforce data quality using <b>dbt tests & Great Expectations</b></li>
-<li>🤖 Build AI-powered solutions (pipeline failure detection agents)</li>
-<li>☁️ Work with cloud platforms: <b>AWS, Azure</b></li>
+<li>📊 Design analytics-ready data models using <b>dbt</b>, including incremental models, SCD2, and medallion architecture</li>
+<li>🔄 Build CDC and near real-time data workflows using <b>Kafka, Fivetran, and cloud platforms</b></li>
+<li>🛡️ Implement data quality frameworks using <b>dbt tests, Great Expectations, and reusable validation patterns</b></li>
+<li>🤖 Build <b>AI agents and developer productivity workflows</b> using Claude, LangChain, LangGraph, and RAG patterns</li>
+<li>☁️ Work across <b>AWS, Azure, Snowflake, and modern data tooling</b></li>
 </ul>
 
 ---
@@ -25,12 +29,14 @@ Specialized in <b>Snowflake, Databricks, dbt, and AWS</b>, with hands-on experie
 <h2>🛠️ Tech Stack</h2>
 
 <p>
-<b>Languages:</b> Python, SQL <br>
-<b>Data Engineering:</b> dbt, Airflow, Databricks, Spark, Kafka <br>
-<b>Cloud:</b> AWS (S3, Glue, EMR, Redshift), Azure <br>
-<b>Warehousing:</b> Snowflake, Redshift, PostgreSQL <br>
-<b>Tools:</b> Fivetran, Docker, Git, Streamlit <br>
-<b>BI:</b> Power BI, Tableau
+<b>Languages:</b> Python, SQL, Bash <br>
+<b>Data Engineering:</b> dbt, Airflow, Databricks, PySpark, Spark Streaming, Kafka, Fivetran <br>
+<b>AI / Agentic Systems:</b> LangChain, LangGraph, RAG, Claude Code, AI Agents, Prompt Engineering <br>
+<b>Cloud:</b> AWS (S3, Glue, EMR, Athena, Redshift, Kinesis), Azure <br>
+<b>Warehousing:</b> Snowflake, Amazon Redshift, PostgreSQL, SQL Server, MongoDB <br>
+<b>Developer Tools:</b> Git, GitHub, Docker, Streamlit <br>
+<b>BI & Analytics:</b> Power BI, Tableau, QuickSight <br>
+<b>Specialized:</b> Snowflake Cortex CLI, dbt project generation, semantic modeling, lineage, data quality automation
 </p>
 
 ---
@@ -38,11 +44,12 @@ Specialized in <b>Snowflake, Databricks, dbt, and AWS</b>, with hands-on experie
 <h2>🚀 Featured Work</h2>
 
 <ul>
-<li>🔹 Built CDC pipelines from SAP → Snowflake improving latency by 60%</li>
-<li>🔹 Designed data quality frameworks reducing issues by 80%</li>
-<li>🔹 Developed AI-powered pipeline failure investigation agent</li>
-<li>🔹 Automated dbt workflows using Snowflake Cortex CLI</li>
-<li>🔹 Built interactive dashboards using Streamlit</li>
+<li>🔹 Built CDC-enabled pipelines from enterprise systems to Snowflake, improving data availability and reducing latency</li>
+<li>🔹 Implemented data quality frameworks using dbt tests, macros, and Great Expectations to reduce data issues</li>
+<li>🔹 Built AI-powered pipeline failure investigation agents using <b>Claude</b> to analyze workflow errors, identify likely root causes, and recommend fixes</li>
+<li>🔹 Used <b>Snowflake Cortex CLI</b> to build complete dbt workflows, including staging, intermediate, mart models, tests, documentation, lineage, and debugging support</li>
+<li>🔹 Explored <b>LangChain, LangGraph, and RAG</b> to build context-aware AI workflows and knowledge-based applications</li>
+<li>🔹 Developed interactive Streamlit apps and dashboards for analytics and operational monitoring</li>
 </ul>
 
 ---
@@ -59,6 +66,6 @@ Specialized in <b>Snowflake, Databricks, dbt, and AWS</b>, with hands-on experie
 <h2>📫 Let's Connect</h2>
 
 <p>
-I'm actively looking for <b>Data Engineering / AI roles</b> (Full-time / Internship). <br>
-Open to collaborations, projects, and opportunities 🚀
+I'm interested in <b>Data Engineering, Analytics Engineering, and AI Engineering</b> opportunities. <br>
+Open to collaborating on data platforms, dbt projects, agentic AI systems, and modern analytics solutions.
 </p>
