@@ -55,6 +55,6 @@ Built dbt-based analytical modeling workflows focused on clean transformations, 
 - Analytics engineering best practices
 
 ## Connect With Me
-- LinkedIn: add-your-link
-- Portfolio: add-your-link
-- Email: add-your-email
+- LinkedIn: https://www.linkedin.com/in/durga-prasad-reddy-/
+- Portfolio: https://durgaprasadreddy.lovable.app/
+- Email: durgaprasadreddyp5@gmail.com
